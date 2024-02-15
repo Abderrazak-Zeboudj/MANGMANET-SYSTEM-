@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\soulaimane\Desktop\DispalyBAhai\JavaApplication2\exucutable\displaybahai.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\soulaimane\Desktop\DispalyBAhai\JavaApplication2\exucutable\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	bin\jre1.8.0_162
+Check launcher:	C:\Users\soulaimane\Desktop\DispalyBAhai\JavaApplication2\exucutable\bin\jre1.8.0_162\bin\javaw.exe (OK)
+Version string: 1.008.000_162 / 64-Bit (OK)
+Launcher:	C:\Users\soulaimane\Desktop\DispalyBAhai\JavaApplication2\exucutable\bin\jre1.8.0_162\bin\javaw.exe
+Launcher args:	-jar "C:\Users\soulaimane\Desktop\DispalyBAhai\JavaApplication2\exucutable\displaybahai.exe"
+Args length:	92/32768 chars
+Exit code:	0
